@@ -128,8 +128,7 @@ npm start
 ## ✍️ Authors
 
 Team ID : LTVIP2025TMID58635
-Team Leader : K Saketh Ram
-Team member : Nalipireddy Yaswitha
-Team member : M S Mahesh
-Team member : Vadlani Yashaswini
--
+- Team Leader : K Saketh Ram
+- Team member : Nalipireddy Yaswitha
+- Team member : M S Mahesh
+- Team member : Vadlani Yashaswini
