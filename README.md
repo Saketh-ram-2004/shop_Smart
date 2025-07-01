@@ -30,7 +30,7 @@ ShopMart/
 │   └── frontend/               # React.js frontend
 ├── 7. Documentation
 │   └── Grocery web App.docx
-├── 8. Demo videos
+├── 8. Demo
 ├── README.md
 └── LICENSE
 ```
