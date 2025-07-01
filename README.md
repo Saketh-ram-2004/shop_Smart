@@ -28,8 +28,9 @@ ShopMart/
 ├── 6. Executable Files/
 │   ├── backend/                # Node.js + Express backend
 │   └── frontend/               # React.js frontend
-├── 7. Demo and Doc/
-│   └── Grocery web App (1).docx
+├── 7. Documentation
+│   └── Grocery web App.docx
+├── 8. Demo videos
 ├── README.md
 └── LICENSE
 ```
